@@ -5,3 +5,5 @@ public class Main {
         EntryPoint.main(args);
     }
 }
+
+// voglio una classe DAO per ogni tabella
